@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #eeeeee;
+}
+
+header h1 {
+  margin: 0;
+  background-color: greenyellow;
+  text-align: center;
+}
+
+section p {
+  text-align: center;
+  font-size: 46px;  
+}
+
+main ul {
+  list-style: none;
+}
+
+footer {
+  background-color: greenyellow;
+  text-align: center;
+}
