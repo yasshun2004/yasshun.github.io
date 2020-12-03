@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  line-height: 2;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+  background-color: greenyellow;
+  text-align: center;
+}
+
+.birthday {
+  display: flex;
+}
+
+button {
+  cursor: pointer;
+}
+
+footer {
+  background: greenyellow;
+  text-align: center;
+}
+
+
+
